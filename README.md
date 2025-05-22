@@ -17,35 +17,32 @@ This repository contains all design files, software, and documentation for an al
 - /vision          Computer vision and object detection scripts  
 - /docs            Design notes, planning documents, schematics  
 - /tests           Testing scripts and logs  
-- /media           Images or videos of the rover in progress  
+- /media           Images or videos of the rover in progress
+- /references      Reference images that I gathered from online
 - README.md        Project overview and documentation  
 
 ## 🧰 Technologies Used
 
 - Raspberry Pi 3 (with OpenCV for computer vision)
-- Microcontroller (e.g., Arduino or ESP32) for motor control
+- Raspberry Pi Pico
 - Python and C++
-- Custom leg mechanism with 4 motors
-- ROS (planned for future integration)
+- Rocker-Bogie Suspension System
+- Camera module
+- Sensors (IMU, GPS, Encoders)
 
 ## 🛠️ Current Progress
 
-- [x] CAD design for rover body and leg mechanism
-- [x] Basic motor control code for walking gait
-- [ ] Sample collection system
-- [ ] Obstacle detection via vision system
-- [ ] Field testing
-
-## 📝 To Do
-
-- Finalize leg kinematics
-- Integrate vision with movement logic
-- Improve sample storage mechanism
-- Create simulation environment (optional)
+- [x] Preliminary Research
+- [ ] Finalized BOM
+- [ ] CAD Design
+- [ ] Assembly
+- [ ] Electronics
+- [ ] Basic Drive Test
+- [ ] Autonomy Test
 
 ## 📷 Media
 
-*Add photos or videos here later — even prototype pictures are great!*
+*Add photos or videos here later*
 
 ## 🔒 Status
 
