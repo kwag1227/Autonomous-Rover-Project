@@ -29,6 +29,7 @@ Created on 5/20/25
 - The sides are mirrors of each other, don't make them identical.
 - The rocker joint component, on which the rocker linkage connection is fastened, is tilted slightly upwards, which is what allows for the linkages to go outwards at an angle, rather than being straight up and down.
 - Dimensions (given in mm) have been uploaded to reference images folder, decide what scale you want to use for this and convert values from there. Keep in mind that the values used in the the reference image dimensions are not the same scale as the real rover, but they are proportionally accurate.
+- Make sure that the rocker joint 3d-printed component is printed with the layers travelling along the shaft that the links are fastened too. That area us under the most stress due to it holding the full weight of the chassis.
 
 
 ## References
