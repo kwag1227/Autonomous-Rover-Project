@@ -67,10 +67,9 @@ The goal of this project is to create a rover-like robot that has similar functi
 
 ### Chassis
 - **Max weight capacity**: ≥ 18 lbs
-- **Ground clearance**: Max obstacle height + 1" (7")
 
 ### Drivetrain
-- **Max obstacle height**: 150% of Wheel Diameter (6")
+- **Max obstacle height**: 150% of Wheel Diameter (6.75")
 - **Minimum drive motor torque**: 17.7 in-lbs (2.0 N*m)
 
 ### Power System
