@@ -55,9 +55,10 @@
 - Test ultrasonic, IMU, camera modules
 - Start obstacle avoidance logic
 - Prototype sampler mechanism
+- Ensure all logic uses ROS convention
 
 ### Week 12 – Software & Field Testing
-- Refine control code
+- Refine control code 
 - Perform outdoor terrain testing
 - Debug hardware/software issues
 
