@@ -5,10 +5,11 @@ This repository contains all design files, software, and documentation for an al
 
 ## 🚀 Project Goals
 
-- Navigate difficult terrain using a six-legged walking mechanism
+- Navigate difficult terrain using a rocker-bogie suspension system
 - Collect and store small samples (e.g., rocks or soil)
 - Avoid untraversable obstacles using computer vision
 - Showcase design and control of a multi-motor robotic system
+- Implement ROS into software coding
 
 ## 📁 Repository Structure
 
@@ -25,19 +26,23 @@ This repository contains all design files, software, and documentation for an al
 
 - Raspberry Pi 3 (with OpenCV for computer vision)
 - Raspberry Pi Pico
-- Python and C++
+- C-programming language and ROS
 - Rocker-Bogie Suspension System
 - Camera module
 - Sensors (IMU, GPS, Encoders)
+- Custom PCBs
 
 ## 🛠️ Current Progress
 
 - [x] Preliminary Research
 - [ ] Finalized BOM
-- [ ] CAD Design
-- [ ] Assembly
-- [ ] Electronics
+- [ ] Main CAD Design
+- [ ] Articulated Arm Design
+- [ ] Full Mechanical Assembly
+- [ ] Power Distribution System
+- [ ] Communication System
 - [ ] Basic Drive Test
+- [ ] Articulated Arm Test
 - [ ] Autonomy Test
 
 ## 📷 Media
