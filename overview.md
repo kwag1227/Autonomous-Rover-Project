@@ -65,16 +65,49 @@ The goal of this project is to create a rover-like robot that has similar functi
 
 ## 3. Performance Specs
 
-*(To be defined per subsystem as design progresses)*
+### Chassis
+- **Max weight capacity**: ≥ 18 lbs
+- **Ground clearance**: Max obstacle height + 1" (7")
 
-- Chassis  
-- Drivetrain  
-- Power System  
-- Control  
-- Sensing  
-- Actuation (Sampler Device)  
-- Communications  
-- Software  
+### Drivetrain
+- **Max obstacle height**: 150% of Wheel Diameter (6")
+- **Minimum drive motor torque**: 17.7 in-lbs (2.0 N*m)
+
+### Power System
+- **Battery life**: ≥ 15 minutes continuous operation
+- **Voltage rails**: 12V, 5V
+- **Safety**: Include overcurrent protection and emergency shutoff
+
+### Control
+- **Latency (input to actuation)**: ≤ 100 ms
+- **Redundancy**: Safe failure behavior if primary controller fails
+- **Interface compatibility**: Must support UART, I2C, CSI, and PWM
+
+### Sensing
+- **Obstacle detection range (ultrasonic)**: ≥ 5'
+- **IMU update rate**: ≥ 100 Hz
+- **Camera resolution**: ≥ 640x480 @ 30 fps
+- **Sensor fusion accuracy**: ≤ ±5° orientation error
+
+### Actuation (Sampler Device)
+- **Reach**: ≥ 10" from arm base
+- **Payload capacity**: ≥ 3lbs (soil or rock sample)
+- **Servo torque**: Sufficient to operate at full arm extension under load
+- **Repeatability**: ≤ 0.5" positioning error
+- **Degrees of Freedom**: 3
+
+### Communications
+- **Internal latency (inter-microcontroller)**: ≤ 10 ms
+- **Signal integrity**: Must operate reliably under EMI from motors
+- **Wiring**: Clearly labeled, shielded where needed
+- **Bandwidth**: Must support 30 fps camera feed to Pi 3
+- **Protocol support**: UART, I2C, SPI, PWM
+
+### Software
+- **Error handling**: Subsystem-level watchdogs and fail-safe states
+- **Modularity**: Software structured into independent modules for each subsystem
+- **Real-time control loop**: ≥ 10 Hz for locomotion and sensing
+- **Remote override**: Support for manual override during autonomous mode
 
 ---
 
