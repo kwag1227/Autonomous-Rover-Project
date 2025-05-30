@@ -21,6 +21,7 @@ The goal of this project is to create a rover-like robot that has similar functi
 - Sensor feedback (IMU, Camera, Ultrasonic Sensor, Wheel Encoders)
 - Decision-making based on I/O
 - GPS tracking
+- Implement ROS
 
 ---
 
