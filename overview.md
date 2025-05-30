@@ -81,7 +81,7 @@ The goal of this project is to create a rover-like robot that has similar functi
 ### Control
 - **Latency (input to actuation)**: ≤ 100 ms
 - **Redundancy**: Safe failure behavior if primary controller fails
-- **Interface compatibility**: Must support UART, I2C, CSI, and PWM
+- **Interface compatibility**: Must support all communication protocols
 
 ### Sensing
 - **Obstacle detection range (ultrasonic)**: ≥ 5'
@@ -101,7 +101,7 @@ The goal of this project is to create a rover-like robot that has similar functi
 - **Signal integrity**: Must operate reliably under EMI from motors
 - **Wiring**: Clearly labeled, shielded where needed
 - **Bandwidth**: Must support 30 fps camera feed to Pi 3
-- **Protocol support**: UART, I2C, SPI, PWM
+- **Protocol support**: WIFI UART, I2C, SPI, PWM
 
 ### Software
 - **Error handling**: Subsystem-level watchdogs and fail-safe states
