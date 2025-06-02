@@ -35,6 +35,7 @@ This repository contains all design files, software, and documentation for an al
 ## 🛠️ Current Progress
 
 - [x] Preliminary Research
+- [x] Conceptual Design
 - [ ] Finalized BOM
 - [ ] Main CAD Design
 - [ ] Articulated Arm Design
