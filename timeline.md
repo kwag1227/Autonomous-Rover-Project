@@ -6,33 +6,32 @@
 - Set up documentation system (GitHub, folders)
 
 ### Week 2 – Conceptual Design
-- Create 2D layouts of major components
-- Define control flow between sensors, logic, and motors
-- Brainstorm PCB responsibilities
+- Create master sketch with accurate dimensions
+- Define conceptual control flow between sensors, logic, and motors
+- Decide PCB responsibilities
 
 ### Week 3 – Detailed Design
 - Finalize mechanical and control architecture
-- Create wiring diagrams
 - Select core electrical components
-- Begin PCB schematic (KiCad or EasyEDA)
 
-### Week 4 – Component & 3D Printer Orders
-- Order primary components
-- Order 3D printer (if committing)
-- Refine PCB schematic
+### Week 4 – BOM Refinement & Electrical Schematics
+- Swap general parts for specific parts
+- Create power distribution PCB electrical schematic
+- Create control PCB electrical schematic
 
-### Week 5 – Mechanical CAD + PCB Design
-- Begin chassis and drivetrain CAD
-- Finalize schematic
-- Start PCB layout
+### Week 5 – Begin CAD + PCB Layout Design
+- Create CAD for main chassis
+- Finalize BOM and begin orders
+- Start PCB layouts
 
-### Week 6 – Finalize Design & Order PCB
-- Finalize 3D models and system layout
-- Submit PCB for fabrication
-- Order additional electrical components
+### Week 6 – Mechanical Design & Components Purchasing
+- Begin work on drivetrain CAD
+- Submit PCBs for fabrication
+- Order BOM components
+- Order 3D Printer
 
 ### Week 7 – Parts Arrival & Mechanical Printing Begins
-- Start 3D printing
+- Set up and begin 3D printing
 - Organize electronic components
 - Inspect custom PCB
 
