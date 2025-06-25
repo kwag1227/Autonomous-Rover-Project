@@ -13,14 +13,15 @@ This repository contains all design files, software, and documentation for an al
 
 ## 📁 Repository Structure
 
-- /code            Microcontroller firmware and Raspberry Pi software  
-- /design          CAD files, mechanical designs, and electrical schematics
-- /vision          Computer vision and object detection scripts  
-- /docs            Design notes and planning documents 
-- /tests           Testing scripts and logs  
-- /media           Images or videos of the rover in progress
-- /references      Reference images that I gathered from online
-- README.md        Project overview and documentation  
+- /code                       Microcontroller firmware and Raspberry Pi software  
+- /mechanical design          CAD files & mechanical designs
+- /electrical schematics      PCB schematics & electrical diagrams
+- /vision                     Computer vision and object detection scripts  
+- /docs                       Design notes and planning documents 
+- /tests                      Testing scripts and logs  
+- /media                      Images or videos of the rover in progress
+- /references                 Reference images that I gathered from online
+- README.md                   Project overview and documentation  
 
 ## 🧰 Technologies Used
 
