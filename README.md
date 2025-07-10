@@ -21,6 +21,7 @@ This repository contains all design files, software, and documentation for an al
 - /tests                      Testing scripts and logs  
 - /media                      Images or videos of the rover in progress
 - /references                 Reference images that I gathered from online
+- /archives                   Outdated documents/files that are no longer in use
 - README.md                   Project overview and documentation  
 
 ## 🧰 Technologies Used
