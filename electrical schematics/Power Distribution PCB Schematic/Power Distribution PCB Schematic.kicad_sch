@@ -5766,7 +5766,7 @@
 	)
 	(text "VCC pins provide 5V\nfor powering encoders,\nnot the motors.\nNeed screw terminals for\nM- and M+ lines only,\nregular GPIO headers for\nencoder wires"
 		(exclude_from_sim no)
-		(at 332.994 37.846 0)
+		(at 330.2 81.026 0)
 		(effects
 			(font
 				(size 1.27 1.27)
