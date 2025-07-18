@@ -26,27 +26,29 @@ This repository contains all design files, software, and documentation for an al
 
 ## 🧰 Technologies Used
 
-- Raspberry Pi 3 (with OpenCV for computer vision)
+- Raspberry Pi 4 (with OpenCV for computer vision)
 - Raspberry Pi Pico
-- C-programming language and ROS
+- Python Programming Language and ROS
 - Rocker-Bogie Suspension System
-- Camera module
-- Sensors (IMU, GPS, Encoders)
-- Custom PCBs
+- Camera Module
+- Sensors (IMU, GPS, Encoders, Magnetometer)
+- Custom PCB
 
 ## 🛠️ Current Progress
 
 - [x] Preliminary Research
 - [x] Conceptual Design
+- [x] Power Distribution Design
+- [x] Control/Communication Design
+- [x] Master Electrical Schematic Design
+- [x] PCB Design
+- [ ] CAD Design
 - [ ] Finalized BOM
-- [ ] Main CAD Design
+- [ ] Full Assembly
+- [ ] Basic Drive Logic
+- [ ] Autonomy Logic
 - [ ] Articulated Arm Design
-- [ ] Full Mechanical Assembly
-- [ ] Power Distribution System
-- [ ] Communication System
-- [ ] Basic Drive Test
-- [ ] Articulated Arm Test
-- [ ] Autonomy Test
+- [ ] Articulation Logic 
 
 ## 📷 Media
 
