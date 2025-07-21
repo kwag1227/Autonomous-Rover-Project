@@ -19,49 +19,55 @@
 - Create power distribution PCB electrical schematic
 - Create control PCB electrical schematic
 
-### Week 5 – Begin CAD + PCB Layout Design
-- Create CAD for main chassis
-- Finalize BOM and begin orders
-- Start PCB layouts
+### Week 5 – PCB Schematic Design
+- Finish electrical components refinement
+- Create KiCAD master electrical schematic for PCB
+- Perform electronic rules check and address all errors/warnings
 
-### Week 6 – Mechanical Design & Components Purchasing
-- Begin work on drivetrain CAD
-- Submit PCBs for fabrication
-- Order BOM components
-- Order 3D Printer
+### Week 6 – PCB Layout Design
+- Research PCB design principles
+- Create PCB layout based off finalized electrical schematic
+- Perform design rules check and address all errors/warnings
 
-### Week 7 – Parts Arrival & Mechanical Printing Begins
-- Set up and begin 3D printing
-- Organize electronic components
-- Inspect custom PCB
+### Week 7 – Mechanical Design Kickoff
+- Refine BOM for mechanical components
+- Establish deadlines for mechanical subsystems
+- Begin work on rover chassis
 
-### Week 8 – PCB Assembly + Mechanical Assembly
-- Solder PCB components
-- Test power, signal, and microcontroller connections
-- Begin mechanical assembly
+### Week 8 – Chassis Design + 3D Printer Order
+- Order 3D Printer + Accessories
+- Select 3D print materials for rover components
+- Finish mechanical design of rover chassis
 
-### Week 9 – Wiring & Integration
-- Mount PCB and electronics
-- Route and connect all wiring
-- Perform electrical checks
+### Week 9 – Drivetrain Design & Components Ordering
+- Order all electrical components
+- Design rocker-bogie drivetrain subsystem
+- Set up 3D printer
 
-### Week 10 – Initial System Bring-Up
-- Power-on and test motors
-- Confirm Pi/Arduino communication
-- Begin testing manual control
+### Week 10 – CAD + BOM Finalization, Parts Ordering/Printing
+- Finalize CAD model
+- Finalize BOM with updated mechanical components
+- Order all mechanical parts
+- 3D print chassis components
+- Set up raspberry pi 4 and pico OS
 
-### Week 11 – Sensor & Control Logic
-- Test ultrasonic, IMU, camera modules
-- Start obstacle avoidance logic
-- Prototype sampler mechanism
-- Ensure all logic uses ROS convention
+### Week 11 – Chassis Electrical/Mechanical Assembly
+- Solder all PCB components
+- Finish chassis mechanical assembly
+- Finish internal electrical system
 
-### Week 12 – Software & Field Testing
-- Refine control code 
-- Perform outdoor terrain testing
-- Debug hardware/software issues
+### Week 12 – Drivetrain Mechanical Assembly + External Wiring
+- Build rocker-bogie system and attach to chassis
+- Wire all external components and connect with internal system
+- Evaluate mechanical assembly and make any necessary modifications
 
-### Week 13 – Wrap-Up & Documentation
-- Final testing
-- Record demo and final video
-- Finalize GitHub, BOM, Gantt Chart, Summary report
+### Week 13 – Electro-Mechanical Finalization + Basic Drive Functionality
+- Finalize the eletrical and mechanical systems of the rover
+- Create python scripts for basic rover locomotion
+- Implement ackermann steering geometry
+
+### Week 14 & Beyond - Advanced logic scripts + rover functionality
+- School has begun, create new project work schedule
+- Work on implementing sensor data, FSM autonomy, & ROS
+- Design and implement robotic arm for sample gathering
+- Consider future additions
