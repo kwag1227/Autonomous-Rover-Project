@@ -9,6 +9,7 @@ This repository contains all design files, software, and documentation for an al
 - Collect and store small samples (e.g., rocks or soil)
 - Avoid untraversable obstacles using computer vision
 - Showcase design and control of a multi-motor robotic system
+- Build a custom PCB
 - Implement ROS into software coding
 
 ## 📁 Repository Structure
