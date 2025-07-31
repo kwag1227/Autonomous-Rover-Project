@@ -68,6 +68,8 @@
 
 ### Week 14 & Beyond - Advanced logic scripts + rover functionality
 - School has begun, create new project work schedule
-- Work on implementing sensor data, FSM autonomy, ROS2, & live telemetry
-- Design and implement robotic arm for sample gathering
-- Consider future additions (actuated camera head, computer vision, & sample storage)
+- Implement logic that handles all sensor data and provides live telemetry to off-board computer
+- Create FSM-level autonomy logic.
+- Begin implementing ROS2 & Gazebo simulation
+- Design and implement 3-axis robotic arm for sample gathering
+- Consider future additions (actuated camera head, SLAM computer vision, & sample storage)
