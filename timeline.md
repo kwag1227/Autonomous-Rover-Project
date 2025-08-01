@@ -39,22 +39,22 @@
 - Select 3D print materials for rover components
 - Finish mechanical design of rover chassis
 
-### Week 9 – Drivetrain Design & Components Ordering
+### Week 9 – Drivetrain Design & Filament Ordering
 - Order all electrical components
 - Design rocker-bogie drivetrain subsystem
-- Set up 3D printer
+- Set up 3D printer and order required filaments types
 
 ### Week 10 – CAD + BOM Finalization, Parts Ordering/Printing
 - Finalize CAD model
 - Finalize BOM with updated mechanical components
-- Order all mechanical parts
+- Order all parts
 - 3D print chassis components
-- Set up raspberry pi 4 and pico OS
 
 ### Week 11 – Chassis Electrical/Mechanical Assembly
 - Solder all PCB components
 - Finish chassis mechanical assembly
 - Finish internal electrical system
+- Set up raspberry pi 4 and pico OS
 
 ### Week 12 – Drivetrain Mechanical Assembly + External Wiring
 - Build rocker-bogie system and attach to chassis
@@ -68,6 +68,8 @@
 
 ### Week 14 & Beyond - Advanced logic scripts + rover functionality
 - School has begun, create new project work schedule
-- Work on implementing sensor data, FSM autonomy, & ROS
-- Design and implement robotic arm for sample gathering
-- Consider future additions
+- Implement logic that handles all sensor data and provides live telemetry to off-board computer
+- Create FSM-level autonomy logic.
+- Begin implementing ROS2 & Gazebo simulation
+- Design and implement 3-axis robotic arm for sample gathering
+- Consider future additions (actuated camera head, SLAM computer vision, & sample storage)
