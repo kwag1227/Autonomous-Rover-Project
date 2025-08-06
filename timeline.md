@@ -44,30 +44,29 @@
 - Design rocker-bogie drivetrain subsystem
 - Set up 3D printer and order required filaments types
 
-### Week 10 – CAD + BOM Finalization, Parts Ordering/Printing
+### Week 10 – CAD + BOM Finalization, Parts Ordering
 - Finalize CAD model
 - Finalize BOM with updated mechanical components
-- Order all parts
-- 3D print chassis components
+- Order MCUs + accessories and PCB + components for soldering
 
-### Week 11 – Chassis Electrical/Mechanical Assembly
+### Week 11 – Software Setup & PCB Soldering
 - Solder all PCB components
-- Finish chassis mechanical assembly
-- Finish internal electrical system
 - Set up raspberry pi 4 and pico OS
+- Write script for locomotion (implementing Ackermann Steering Geometry & ROS 2)
 
-### Week 12 – Drivetrain Mechanical Assembly + External Wiring
-- Build rocker-bogie system and attach to chassis
-- Wire all external components and connect with internal system
-- Evaluate mechanical assembly and make any necessary modifications
+### Week 12 – Project Relocation / Break Week
+- Moving back to university, bring all required components and equipment
+- Begin printing drivetrain components
+- Order mechanical components if possible
 
-### Week 13 – Electro-Mechanical Finalization + Basic Drive Functionality
-- Finalize the eletrical and mechanical systems of the rover
-- Create python scripts for basic rover locomotion
-- Implement ackermann steering geometry
+### Week 13 & Beyond - Electrical and Mechanical Assembly
+- Classes have begun, create new project work schedule
+- Order all remaining components and assemble
+- Finish internal/external wiring
+- Test basic drive functionality, making any required software/mechanical adjustments
+- Create a video going over the project, including discussion of the design process, major challenges, and key areas of learning.
 
-### Week 14 & Beyond - Advanced logic scripts + rover functionality
-- School has begun, create new project work schedule
+### Future Additions - Advanced logic scripts + rover functionality
 - Implement logic that handles all sensor data and provides live telemetry to off-board computer
 - Create FSM-level autonomy logic.
 - Begin implementing ROS2 & Gazebo simulation
