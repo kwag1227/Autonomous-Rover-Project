@@ -44,13 +44,13 @@
 - Design rocker-bogie drivetrain subsystem
 - Set up 3D printer and order required filaments types
 
-### Week 10 – CAD + BOM Finalization, Parts Ordering
+### Week 10 – CAD Finalization, Parts Ordering, Pi 4 Setup
 - Finalize CAD model
-- Finalize BOM with updated mechanical components
 - Order MCUs + accessories and PCB + components for soldering
 - Set up Raspberry OS on Pi 4
 
-### Week 11 – Software Setup & PCB Soldering
+### Week 11 – BOM Finalization, Pico Setup, PCB Soldering
+- Finalize BOM with updated mechanical components
 - Solder all PCB components
 - Set up Pi Pico
 - Write script for locomotion (implementing Ackermann Steering Geometry & ROS 2)
