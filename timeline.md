@@ -48,10 +48,11 @@
 - Finalize CAD model
 - Finalize BOM with updated mechanical components
 - Order MCUs + accessories and PCB + components for soldering
+- Set up Raspberry OS on Pi 4
 
 ### Week 11 – Software Setup & PCB Soldering
 - Solder all PCB components
-- Set up raspberry pi 4 and pico OS
+- Set up Pi Pico
 - Write script for locomotion (implementing Ackermann Steering Geometry & ROS 2)
 
 ### Week 12 – Project Relocation / Break Week
