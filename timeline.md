@@ -61,7 +61,7 @@
 
 ### Week 13 & Beyond - Electrical and Mechanical Assembly
 - Classes have begun, create new project work schedule
-- Order all remaining components and assemble
+- Order/print all remaining components and assemble
 - Finish internal/external wiring
 - Test basic drive functionality, making any required software/mechanical adjustments
 - Create a video going over the project, including discussion of the design process, major challenges, and key areas of learning.
@@ -69,6 +69,7 @@
 ### Future Additions - Advanced logic scripts + rover functionality
 - Implement logic that handles all sensor data and provides live telemetry to off-board computer
 - Create FSM-level autonomy logic.
-- Begin implementing ROS2 & Gazebo simulation
+- Begin implementing Gazebo simulation
 - Design and implement 3-axis robotic arm for sample gathering
+- Finish 2-DOF camera mount design
 - Consider future additions (actuated camera head, SLAM computer vision, & sample storage)
