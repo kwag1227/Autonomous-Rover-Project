@@ -2,12 +2,13 @@
 #include <iostream>
 
 /*
+// Basic hello word statement
 int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
-*/
 
+// Basic arithmetic
 int main () {
 
     double speed = 0.5; //robot speed
@@ -21,3 +22,5 @@ int main () {
 
     return 0;
 }
+*/
+
