@@ -49,23 +49,23 @@
 - Order MCUs + accessories and PCB + components for soldering
 - Set up Raspberry OS on Pi 4
 
-### Week 11 – BOM Finalization, Pico Setup, PCB Soldering
+### Week 11 – BOM Finalization, Software Setup & Training
 - Finalize BOM with updated mechanical components
 - Solder all PCB components
 - Set up Pi Pico
-- Write script for locomotion (implementing Ackermann Steering Geometry & ROS 2)
+- Install ROS2 and Gazebo software
+- C++ and ROS2 Training
 
-### Week 12 – Project Relocation / Break Week
+### Week 12 – Project Relocation / Transition Week
 - Moving back to university, bring all required components and equipment
 - Begin printing drivetrain components
 - Order mechanical components if possible
 
 ### Week 13 & Beyond - Electrical and Mechanical Assembly
-- Classes have begun, create new project work schedule
 - Order/print all remaining components and assemble
 - Finish internal/external wiring
-- Test basic drive functionality, making any required software/mechanical adjustments
-- Create a video going over the project, including discussion of the design process, major challenges, and key areas of learning.
+- Begin writing ROS2 nodes for rover locomotion
+- Create project overview video
 
 ### Future Additions - Advanced logic scripts + rover functionality
 - Implement logic that handles all sensor data and provides live telemetry to off-board computer

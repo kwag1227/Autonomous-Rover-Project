@@ -7,10 +7,10 @@ This repository contains all design files, software, and documentation for an al
 
 - Navigate difficult terrain using a rocker-bogie suspension system
 - Collect and store small samples (e.g., rocks or soil)
-- Avoid untraversable obstacles using computer vision
+- Avoid untraversable obstacles using sensors
 - Showcase design and control of a multi-motor robotic system
 - Build a custom PCB
-- Implement ROS into software coding
+- Implement ROS2 and Gazebo Simulation
 
 ## 📁 Repository Structure
 
