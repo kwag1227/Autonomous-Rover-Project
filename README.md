@@ -43,8 +43,8 @@ This repository contains all design files, software, and documentation for an al
 - [x] Control/Communication Design
 - [x] Master Electrical Schematic Design
 - [x] PCB Design
-- [ ] CAD Design
-- [ ] Finalized BOM
+- [x] CAD Design
+- [x] Finalized BOM
 - [ ] Full Assembly
 - [ ] Basic Drive Logic
 - [ ] Autonomy Logic
