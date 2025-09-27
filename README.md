@@ -45,7 +45,7 @@ This repository contains all design files, software, and documentation for an al
 - [x] PCB Design
 - [x] CAD Design
 - [x] Finalized BOM
-- [ ] Mechanical Assembly
+- [x] Mechanical Assembly
 - [ ] Eletrical Assembly
 - [ ] Basic Drive Logic
 - [ ] Autonomy Logic
