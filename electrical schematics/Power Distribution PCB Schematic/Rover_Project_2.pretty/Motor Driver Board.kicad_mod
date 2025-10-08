@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 8.35 1.33 0)
+		(at 7.62 -10.16 90)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "763b8e73-9608-4a86-b299-51a2c6d8a1aa")
@@ -85,82 +85,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "F.SilkS")
-		(uuid "afe08935-4a28-4654-a790-0e6761b362b1")
-		(pts
-			(xy 15.24 0) (xy 0 0)
-		)
-		(height 4.15)
-		(orientation 0)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "15.24"
-			(at 7.62 3.05 0)
-			(layer "F.SilkS")
-			(uuid "afe08935-4a28-4654-a790-0e6761b362b1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "F.SilkS")
-		(uuid "f6605803-49c4-467c-b62f-d1a1ee6e59bb")
-		(pts
-			(xy 0 0) (xy 0 -20.32)
-		)
-		(height -3.43)
-		(orientation 1)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "20.32"
-			(at -4.53 -10.16 90)
-			(layer "F.SilkS")
-			(uuid "f6605803-49c4-467c-b62f-d1a1ee6e59bb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
 			)
 		)
 	)
