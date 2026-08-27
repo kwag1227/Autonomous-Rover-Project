@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.3*%
+%TF.CreationDate,2025-08-05T09:32:11-05:00*%
+%TF.ProjectId,Power Distribution PCB Schematic,506f7765-7220-4446-9973-747269627574,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.3) date 2025-08-05 09:32:11*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X20000000Y-25500000D02*
+X120000000Y-25500000D01*
+X120000000Y-125500000D01*
+X20000000Y-125500000D01*
+X20000000Y-25500000D01*
+M02*

@@ -1,0 +1,97 @@
+(footprint "12AWG Screw Terminal"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "12AWG_Screw"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "855a67fa-4556-4ca4-98be-908162a97c99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "12AWG Screw Terminal"
+		(at -0.19 6.65 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ee6fd72-acf8-4fee-aaf1-1cf9cfb78372")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -0.04 0.04 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65399047-9f79-4523-87b2-f366c38976db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -0.04 0.04 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa2dd33b-eaba-45db-bb72-34ef491bb2e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -5 -5.25)
+		(end 5 5.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "23416a7d-43ba-4864-8cf3-7188befc457e")
+	)
+	(fp_rect
+		(start -5.5 -5.75)
+		(end 5.5 5.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "07f24078-6c70-4677-b303-2f5fad9c9a31")
+	)
+	(pad "1" thru_hole circle
+		(at -2.55 -0.1)
+		(size 2.5 2.5)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b39f3820-1ceb-4aac-888e-50d2306d2787")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 -0.1)
+		(size 2.5 2.5)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "50f5f7cf-97cf-41ba-88b4-dd0a8785f245")
+	)
+	(embedded_fonts no)
+)
